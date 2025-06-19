@@ -1,7 +1,9 @@
 {
-  "type": "module",
+  
   "dependencies": {
     "puppeteer": "^24.10.2",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-recaptcha": "^3.6.8",
     "scrappey-wrapper": "^1.0.8"
   }
 }
