@@ -2,7 +2,7 @@ const Scrappey = require('scrappey-wrapper');
 const fs = require('fs');
 const axios = require('axios');
 
-const API_KEY = 'WX2FZ9FpHhqWtgm7CHtBmJsMmjgLUBUOoW9lwG4VUD1CyY597q17qNchJCOv'; 
+const API_KEY = 'APY_KEY'; 
 const scrappey = new Scrappey(API_KEY);
 
 const CODIGOS = ['46896361']; 
