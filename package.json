@@ -1,5 +1,7 @@
 {
+  "type": "module",
   "dependencies": {
+    "puppeteer": "^24.10.2",
     "scrappey-wrapper": "^1.0.8"
   }
 }
